@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="button_background">
+    <file>color script_.jpg</file>
+    <file>icon.png</file>
+    <file>Matte Painter_.jpg</file>
+    <file>ui_ghapic mattepaint_.jpg</file>
+    <file>key visual_.jpg</file>
+    <file>color script.jpg</file>
+    <file>key visual.jpg</file>
+    <file>Matte Painter.jpg</file>
+    <file>ui_ghapic mattepaint.jpg</file>
+  </qresource>
+</RCC>
